@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GuilhermeOliveiraDev
+- 👋 Hi, I’m @GuilhermeOliveiraDev, Front-End Dev!
 - 👀 I’m interested in improving my coding abilities 
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python
+- 🌱 I’m focussed in learning React & React Native.
 - 📫 How to reach me:
 
 - <a href="https://www.linkedin.com/in/guilherme-oliveira-a09533236">Linkedin</a>
